@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     padding: 24,
   },
   eventName: {
-    color: '#FFF',
+    color: '#FFFFFF',
     fontSize: 24,
     fontWeight: 'bold',
     marginTop: 48,
@@ -17,12 +17,14 @@ export const styles = StyleSheet.create({
     fontSize: 16,
   },
   input: {
+    flex: 1,
     height: 56,
     backgroundColor: '#1F1E25',
     borderRadius: 5,
-    color: '#FFFF',
+    color: '#FFFFFF',
     padding: 16,
     fontSize: 16,
+    marginRight: 12,
   },
   button: {
     width: 56,
@@ -35,5 +37,11 @@ export const styles = StyleSheet.create({
   buttonText: {
     fontSize: 24,
     color: '#FFFFFF',
+  },
+  form: {
+    width: '100%',
+    flexDirection: 'row',
+    marginTop: 34,
+    marginBottom: 44,
   },
 });
