@@ -19,9 +19,9 @@ export const Home = () => {
         </TouchableOpacity>
       </View>
 
-      <Participant />
-      <Participant />
-      <Participant />
+      <Participant name="Marcos André" />
+      <Participant name="João Lucas" />
+      <Participant name="Lucas Ribeiro" />
     </View>
   );
 };
