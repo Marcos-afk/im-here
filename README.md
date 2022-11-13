@@ -1,15 +1,13 @@
 # I'm Here
 
-Projeto de gerenciamento de participantes presentes em um evento desenvolvido com o conteúdo estudado nas aulas do
-Chapter I da trilha de React Native do Bootcamp Ignite da Rocketseat.
-
 <div align="center">
 	<img src="./assets/app.png" width="1000"alt="app"/>
 </div>
 
 ## :dart: Objetivo
 
-Projeto mobile de estudos desenvolvido durante aulas do Nlw.
+Projeto de gerenciamento de participantes presentes em um evento desenvolvido com o conteúdo estudado nas aulas do
+Chapter I da trilha de React Native do Bootcamp Ignite da Rocketseat.
 
 ## :hammer_and_wrench: Ferramentas
 
