@@ -4,7 +4,7 @@ Projeto de gerenciamento de participantes presentes em um evento desenvolvido co
 Chapter I da trilha de React Native do Bootcamp Ignite da Rocketseat.
 
 <div align="center">
-	<img src="./assets/app.png" width="500"alt="exec-01"/>
+	<img src="./assets/app.png" width="1000"alt="app"/>
 </div>
 
 ## :dart: Objetivo
