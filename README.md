@@ -30,5 +30,5 @@ yarn install
 
 // Concluindo a instalação rode
 
-yarn start
+yarn android
 ```
